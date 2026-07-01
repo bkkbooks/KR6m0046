@@ -1,0 +1,438 @@
+canonical_identifier: bkk:krp/KR6m0046/X/v1
+canonical_location: https://kanripo.org/bkk/KR6m0046/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肇論略註
+  identifiers:
+    krp: KR6m0046
+    cbeta: X54n0873
+    cbeta_old_id: X54n0873
+    authorityid: CA0004036
+    json_key: X0873
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0873.xml
+    old_id: X54n0873
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0046_000-X.yaml, hash: 'sha256:62452551345ec419b329c26eed74bbe643db5b22e32c3a595a10103f70077397'}
+  - {seq: 1, filename: KR6m0046_001-X.yaml, hash: 'sha256:bba8e39cb88b45bfe74453ca015c9ecc1112850530a72b475fc2771b99920dc3'}
+  - {seq: 2, filename: KR6m0046_002-X.yaml, hash: 'sha256:bfb81e2b1fdd50999a8d6da326106c13edce380148b0111243960ca280825b4b'}
+  - {seq: 3, filename: KR6m0046_003-X.yaml, hash: 'sha256:505dcfac344d5544ba054ce80b1f3b497a1c340d918db6f0574292f5b13f08cd'}
+  - {seq: 4, filename: KR6m0046_004-X.yaml, hash: 'sha256:54c4f67df122a7374182fdd59d2728ce638a4a2c09458925be16e53b9f94ec77'}
+  - {seq: 5, filename: KR6m0046_005-X.yaml, hash: 'sha256:5f450fd78a51fd016a34c407c375e7150ac55a3c3f98a1ae8256063496db7ac9'}
+  - {seq: 6, filename: KR6m0046_006-X.yaml, hash: 'sha256:c4f806286c318726a6ef3ef86dafa88803d97b07b39fea50ff83be11ce18a370'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0046_000-X.markers.yaml, hash: 'sha256:c09dc742d7586493e79b9e486dbed6cb2824a0ed4d677ffbe8824fdda6d2e9fc'}
+  - {seq: 1, role: markers, filename: assets/KR6m0046_001-X.markers.yaml, hash: 'sha256:591d90fce32a1b79f295563dd4a2a26485b9d53b67eee78b813fe8cf2b3b022e'}
+  - {seq: 2, role: markers, filename: assets/KR6m0046_002-X.markers.yaml, hash: 'sha256:102e36ce3d068a4cda15d54e4a6a0a36ca77f246b7e0a26fc711b8b2f9888907'}
+  - {seq: 3, role: markers, filename: assets/KR6m0046_003-X.markers.yaml, hash: 'sha256:83acacb5cb678434f0715e4d2c98ae22fc05bf105edb8bc1b3bb8b0653a37fc7'}
+  - {seq: 4, role: markers, filename: assets/KR6m0046_004-X.markers.yaml, hash: 'sha256:3e03136f34fae8eb0a3b311890c6f8053d2a28a3e1c2be40e829c1d8cbdc9f07'}
+  - {seq: 5, role: markers, filename: assets/KR6m0046_005-X.markers.yaml, hash: 'sha256:bb489dad05c5a7d5bf11695da3cea8796662fe1039af5e3d9e810ca1405beddb'}
+  - {seq: 6, role: markers, filename: assets/KR6m0046_006-X.markers.yaml, hash: 'sha256:17f8dd4ee69f2cacb93683b4a22707eabff1e5223bfa20831ff069e7fb799897'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6m0046_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 873-A 肇論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0046_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8596
+  label: 肇論略注卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0046_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 總標題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0046_X_001-mulu-2
+    span:
+    - body
+    - 186
+    - 186
+  label: 作者示名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0046_X_001-mulu-3
+    span:
+    - body
+    - 453
+    - 453
+  label: 宗本義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0046_X_001-mulu-4
+    span:
+    - body
+    - 2328
+    - 2328
+  label: 物不遷論第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0046_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 5690
+  label: 肇論略注卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0046_X_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 不真空論第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0046_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 9496
+  label: 肇論略注卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0046_X_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 般若無知論第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0046_X_003-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 般若無知論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0046_X_003-mulu-3
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 問答決疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0046_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 8457
+  label: 肇論略注卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0046_X_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 劉遺民書問附
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0046_X_004-mulu-2
+    span:
+    - body
+    - 2718
+    - 2718
+  label: 答劉遺民書
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 11606
+  label: 肇論略注卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 涅槃無名論第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-2
+    span:
+    - body
+    - 443
+    - 443
+  label: 奏秦王表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-3
+    span:
+    - body
+    - 2583
+    - 2583
+  label: 九折十演者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-4
+    span:
+    - body
+    - 2634
+    - 2634
+  label: 開宗第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-5
+    span:
+    - body
+    - 4282
+    - 4282
+  label: 覈體第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-6
+    span:
+    - body
+    - 6811
+    - 6811
+  label: 位體第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-7
+    span:
+    - body
+    - 9946
+    - 9946
+  label: 徵出第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0046_X_005-mulu-8
+    span:
+    - body
+    - 10801
+    - 10801
+  label: 超境第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9527
+  label: 肇論略注卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 搜玄第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-2
+    span:
+    - body
+    - 283
+    - 283
+  label: 妙存第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-3
+    span:
+    - body
+    - 1510
+    - 1510
+  label: 難差第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-4
+    span:
+    - body
+    - 1891
+    - 1891
+  label: 辯差第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-5
+    span:
+    - body
+    - 2347
+    - 2347
+  label: 責異第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-6
+    span:
+    - body
+    - 2650
+    - 2650
+  label: 會異第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-7
+    span:
+    - body
+    - 3142
+    - 3142
+  label: 詰漸第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-8
+    span:
+    - body
+    - 3723
+    - 3723
+  label: 明漸第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-9
+    span:
+    - body
+    - 4386
+    - 4386
+  label: 譏動第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-10
+    span:
+    - body
+    - 4744
+    - 4744
+  label: 動寂第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-11
+    span:
+    - body
+    - 6067
+    - 6067
+  label: 窮源第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-12
+    span:
+    - body
+    - 6278
+    - 6278
+  label: 通古第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-13
+    span:
+    - body
+    - 7251
+    - 7251
+  label: 考得第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-14
+    span:
+    - body
+    - 7553
+    - 7553
+  label: 玄得第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0046_X_006-mulu-15
+    span:
+    - body
+    - 8912
+    - 8912
+  label: No. 873-B 肇論略注後跋
+  type: mulu
+  level: 1
+hash: sha256:590ee6579b6abae1039662804cf2024f7a11e2fe7bb188d6dec7b9b4f1c835bb

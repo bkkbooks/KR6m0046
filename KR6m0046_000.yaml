@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6m0046/x/v1/juan/0
+seq: 0
+front:
+  text: 肇論序慧達率愚序長安釋僧肇法師所作宗本不遷等四論曰有美若人超語兼默標本則句句深達佛心明末則言言備通衆教達猥生天幸逢此正音每至披尋不勝手舞誓願生生盡命弘述夫神道不形心敏難繪聊寄一序請俟來哲蓋大分深義厥號本無故建言宗旨標乎實相開空法道莫逾真俗所以次釋二諦顯佛教門但圓正之因無尚般若至極之果唯有涅槃故末啓重玄明衆聖之所宅雖以性空擬本無本可稱語本絶言非心行處然則不遷當俗俗則不生不真為真真但名說若能崇茲一道無言二諦斯則靜照之功著故般若無知無名之德興而涅槃不稱余謂此說周圓罄佛淵海浩博無涯窮法體相洪論第一肇公其人矣
+  hash: sha256:a3b314876cf8b56eec0dff84c7006194f2bb1c3081655599c1de1fa626b38371
+  markers:
+  - {type: 序, offset: 0, content: No. 873-A 肇論序, id: KR6m0046_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肇論略註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0873.xml
+    old_id: X54n0873
+hash: sha256:abed0220b9a7b7533bb048df502b457b8c0f163b8e7370d4499990a855e83f72
